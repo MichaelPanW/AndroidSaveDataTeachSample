@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Teach</string>
+    <string name="title_activity_singleimg">singleimgActivity</string>
+    <string name="title_activity_json">JsonActivity</string>
+    <string name="title_activity_xml">XmlActivity</string>
+    <string name="title_activity_view_local">ViewLocalActivity</string>
+    <string name="read_img">http://mic.nuucloud.com/kcbs/kcbs.jpg</string>
 </resources>
